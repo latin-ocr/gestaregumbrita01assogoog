@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gestaregumbrita01assogoog_0004.png"; bbox 0 0 788 1260; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 657 8 766 120">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 657 8 766 120">
+     <span class='ocr_line' id='line_1_1' title="bbox 683 8 730 35; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 683 8 730 35; x_wconf 69' lang='grc' dir='ltr'><em>ΡΑ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 677 51 766 76; baseline 0.011 -1"><span class='ocrx_word' id='word_1_2' title='bbox 677 51 766 76; x_wconf 60' lang='grc' dir='ltr'><em>ῩΒΙῩ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 657 91 720 120; baseline 0 -9"><span class='ocrx_word' id='word_1_3' title='bbox 657 91 720 120; x_wconf 52' lang='lat' dir='ltr'><em>&#39;mg</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
